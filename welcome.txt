@@ -1,8 +1,0 @@
-This is my first welcome file.
-<<<<<<<
-
-HEAD
-noooo   abcdefg
-=======
-hijklmno
->>>>>>> dev
